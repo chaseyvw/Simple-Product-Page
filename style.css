@@ -194,3 +194,21 @@ nav {
     display: flex;
     flex-direction: row;
 }
+
+.customerImage .material-symbols-outlined{
+    font-size: 50px;
+}
+
+.customerInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.customerRating {
+    display: flex;
+    flex-direction: row;
+}
+
+.customerRating .material-symbols-outlined {
+    font-size: 15px;
+}
